@@ -1,1 +1,1 @@
-web: build/install/TestTelegramBot/bin/TestTelegramBot
+worker: build/install/TestTelegramBot/bin/TestTelegramBot
