@@ -1,1 +1,1 @@
-worker: sh target/bin/worker
+web: build/install/TestTelegramBot/bin/TestTelegramBot
