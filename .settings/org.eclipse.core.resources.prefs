@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/my/testbot/game/Game.java=UTF-8
+encoding//src/main/java/my/testbot/game/Noun.java=UTF-8
+encoding//src/main/java/my/testbot/game/NounQuestion.java=UTF-8
+encoding//src/main/java/my/testbot/handler/TestTelegramBot.java=UTF-8
+encoding//src/main/java/my/testbot/storage/NounBank.java=UTF-8
