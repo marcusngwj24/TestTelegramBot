@@ -13,6 +13,10 @@ public class NounBank {
         bank.add(new Noun("魚", "さかな", "", "sakana", "fish"));
         bank.add(new Noun("雨", "あめ", "", "ame", "rain"));
         bank.add(new Noun("熊", "くま", "", "kuma", "bear"));
+        bank.add(new Noun("", "", "アメリカ", "amerika", "america"));
+        bank.add(new Noun("林檎", "りんご", "リンゴ", "ringo", "apple"));
+        bank.add(new Noun("", "", "バナナ", "banana", "banana"));
+        bank.add(new Noun("銀行", "ぎんこう", "", "ginkou", "bank"));
     }
     
     public static Noun getRandomNoun() {
